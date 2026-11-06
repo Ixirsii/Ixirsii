@@ -49,4 +49,4 @@ unpaid job with self-hosting on FreeBSD.
 [1]: https://github.com/Ixirsii/dotfiles
 [2]: https://github.com/9-Developers/Valorant-Randomizer
 [3]: https://github.com/9-Developers/Yggdrasil
-[4]: https://github-readme-stats.vercel.app/api?username=Ixirsii&show_icons=true&hide_border=true&theme=transparent
+[4]: ./profile/stats.svg
